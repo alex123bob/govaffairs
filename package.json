@@ -1,0 +1,22 @@
+{
+  "name": "govaffairs",
+  "version": "1.0.0",
+  "description": "Application for invoking interfaces from governmental affairs sites in Zhejiang province.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex123bob/govaffairs.git"
+  },
+  "author": "Alexander Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex123bob/govaffairs/issues"
+  },
+  "homepage": "https://github.com/alex123bob/govaffairs#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
